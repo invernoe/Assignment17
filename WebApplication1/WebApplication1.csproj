@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="WWWroot\CSS\" />
+    <Folder Include="WWWroot\JS\" />
+    <Folder Include="WWWroot\Lib\" />
+  </ItemGroup>
+
 </Project>
